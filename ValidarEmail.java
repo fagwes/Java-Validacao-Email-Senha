@@ -6,10 +6,10 @@ import java.util.regex.Pattern;
 public class ValidarEmail {
 
 	public static void main(String[] args) {
-        System.out.println( validaremail ("garbosoftware@gmail.com") );
-        System.out.println( validaremail("aaabbb@gmail.com") );
-        System.out.println( validaremail("invalido@com.br") );
-        System.out.println( validaremail("inv@lido@com.br") );
+        System.out.println( validaremail ("ophelia6507@uorak.com") );
+        System.out.println( validaremail("sonia6636@uorak.com") );
+        System.out.println( validaremail("bailo4550@uorak.com") );
+        System.out.println( validaremail("categoria6970@uorak.com") );
     }
 
     public static boolean validaremail(String email) {
